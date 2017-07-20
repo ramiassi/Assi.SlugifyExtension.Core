@@ -7,7 +7,7 @@ namespace Assi.SlugifyExtension.Core
     public static class StringExtension
     {
         /// <summary>
-        /// An extension method for generating slugs from any language
+        /// An extension method to generate slugs from any language
         /// </summary>
         /// <param name="textToSlug">Text to convert to slug</param>
         /// <param name="maxLength">Maximum number of characters of the generated slug</param>
